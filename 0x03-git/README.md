@@ -1,1 +1,1 @@
-This directory contains all the solutions for my git tasks
+This directory contains the updated solutions of all my git tasks
